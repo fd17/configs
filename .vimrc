@@ -1,0 +1,15 @@
+color desert
+set number
+set showcmd
+set cursorline
+set tabstop=4
+set softtabstop=4
+set wildmenu
+set lazyredraw
+set showmatch
+set incsearch
+set hlsearch
+syntax on
+set ruler
+set showmode
+set showcmd
